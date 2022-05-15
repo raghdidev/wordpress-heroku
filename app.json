@@ -9,7 +9,7 @@
 	"composer"
   ],
   "website": "https://wordpress.org/",
-  "repository": "https://midtrans-tests.herokuapp.com/",
+  "repository": "https://wppnn.herokuapp.com/",
   "success_url": "/wp/wp-admin",
   "scripts": {
 	"postdeploy": [
