@@ -127,7 +127,7 @@ define('NONCE_SALT', env('NONCE_SALT'));
  * Custom Settings
  */
 define('AUTOMATIC_UPDATER_DISABLED', false);
-define('DISALLOW_FILE_EDIT', false);
+define('DISALLOW_FILE_EDIT', true);
 define('DISALLOW_FILE_MODS', false);
 define('DISABLE_WP_CRON', env('DISABLE_WP_CRON') ?: false);
 
